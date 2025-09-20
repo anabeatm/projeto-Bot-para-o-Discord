@@ -16,6 +16,7 @@ Aqui estão algumas das coisas que o bot pode fazer:
     * `!ola`: Mostra uma mensagem de olá para o usuário.
     * `!repete [mensagem]`: Repete exatamente a frase que o usuário mandou.
     * `!calcular`: Faz cálculos simples como somar, subtrair, multiplicar, etc,.
+    * (in progress)...
 
 ## 🛠️ Tecnologias Utilizadas
 
@@ -34,7 +35,7 @@ Para executar este projeto em sua própria máquina, siga os passos abaixo.
 ### Pré-requisitos
 
 Antes de começar, você vai precisar ter instalado em sua máquina:
-* [Python](https://www.python.org/) (se for Python)
+* [Python](https://www.python.org/)
 * [Git](https://git-scm.com/)
 
 ### ⚙️ Instalação e Configuração
