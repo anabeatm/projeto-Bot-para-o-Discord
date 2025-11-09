@@ -1,6 +1,6 @@
-# 🤖 Khoi's bot
+# 🤖 anabeat's bot
 
-> Um bot de moderação e música para servidores do Discord. (in progress)
+> Um bot de moderação e música para servidores do Discord. [in progress]
 
 Um bot completo para Discord construído com Python. Este projeto foi criado para aprender a desenvolver bots, automatizar tarefas de moderação e oferecer entretenimento para os membros do meu servidor, além de evoluir minhas habilidades em Python.
 
@@ -42,12 +42,12 @@ Antes de começar, você vai precisar ter instalado em sua máquina:
 
 1.  **Clone o repositório:**
     ```bash
-    git clone [https://github.com/anabeatm/projeto-Bot-para-o-Discord.git](https://github.com/anabeatm/projeto-Bot-para-o-Discord.git)
+    git clone https://github.com/anabeatm/projeto-Bot-para-o-Discord.git
     ```
 
 2.  **Acesse a pasta do projeto:**
     ```bash
-    cd projeto-Bot-para-o-Discord
+    cd discord-bot-project
     ```
 
 3.  **Instale as dependências:**
